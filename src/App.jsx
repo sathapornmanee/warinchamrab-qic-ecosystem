@@ -75,7 +75,7 @@ const menuItems = [
     title: 'Quality Document System',
     subtitle: 'เอกสารระบบคุณภาพ',
     icon: Files,
-    url: 'https://script.google.com/macros/s/AKfycbwTVeIHrtlBoeAVoEjiL3v92FG_b89wmajUBZ0p2F3lZxGPcQ53vpPUwXHwQUA0cgUBBA/exec',
+    url: 'https://script.google.com/macros/s/AKfycbznDRG2YQa1VsojEZgDmNMFX3fEIuV58jioOZieXcXYE-ONZIRWeIZiRWL2TV45ucTcYg/exec',
     badge: 'webapp',
     badgeText: 'Web App',
     description:
